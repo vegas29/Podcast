@@ -6,7 +6,7 @@
     color:v.$blanco;
 
     .footer-grid{
-        padding-top: 5rem;
+        padding: 5rem 0;
 
         @include m.tablet { 
             @include m.grid(4, 4rem);
